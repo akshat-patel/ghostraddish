@@ -8,3 +8,4 @@
 - 👯 I’m looking to collaborate on **web development projects using Django**
 - ⚡ Fun fact: I'm a huge fan of fantasy novels like An Ember in The Ashes
 - 🤓 I'm currently working on **a front-end for an email client that makes API calls to send and receive emails, using JavaScript**
+- If you're a recruiter, please contact me with your github username if you'd like to see examples of my projects from the CS50X course I took. **ashpatel@ucdavis.edu**
